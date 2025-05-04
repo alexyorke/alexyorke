@@ -22,4 +22,4 @@ I’m Alex Yorke, a Software Engineer based in Vancouver, British Columbia, form
 * **LinkedIn:** [linkedin.com/in/alexyorke](https://ca.linkedin.com/in/alexyorke?utm_source=chatgpt.com)  
 * **Website:** [alexyorke.ca](https://alexyorke.github.io)  
 * **Stack Overflow:** [stackoverflow.com/users/220935/alexyorke](https://stackoverflow.com/users/220935/alexyorke)  
-* **Email:** [hello@alexyorke.ca](mailto:hello@alexyorke.ca)  
+* **Email:** [hello@alexyorke.ca](mailto:yorkeac@gmail.com)  
