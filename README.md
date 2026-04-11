@@ -1,25 +1,36 @@
-I’m Alex Yorke, a Software Engineer based in Santa Clara, CA, formerly at Microsoft. ([LinkedIn](https://ca.linkedin.com/in/alexyorke?utm_source=chatgpt.com)) I specialize in back-end development with C#, React, Python, and cloud technologies like Azure. ([LinkedIn](https://ca.linkedin.com/in/alexyorke?utm_source=chatgpt.com)) On GitHub, I maintain 77 public repositories, including popular projects such as PurelySharp, beginning-ci-cd-book, and branch-pad. ([GitHub](https://github.com/alexyorke?utm_source=chatgpt.com)) I also share my expertise on Stack Overflow (user #220935). ([Stack Overflow](https://stackoverflow.com/users/220935/alexyorke))
+# Alex Yorke
 
-## About Me
+Senior Staff Software Engineer at Palo Alto Networks, previously at Microsoft.
 
-👋 Hello and welcome! I’m passionate about building reliable, maintainable software and enabling teams to ship with confidence through robust CI/CD pipelines. I thrive on open-source collaboration and have authored practical guides and tools that help engineers automate and optimize their workflows.
+I work primarily on backend, platform, and reliability/security-adjacent engineering in C#, Python, TypeScript, and cloud systems. I’m especially interested in debugging complex systems, improving release safety, and building tools that help teams ship with confidence.
 
-## Skills
+## Focus areas
 
-* **Languages & Frameworks:** C#, JavaScript/TypeScript, React, Python ([LinkedIn](https://ca.linkedin.com/in/alexyorke?utm_source=chatgpt.com))  
-* **Cloud & DevOps:** Azure, GitHub Actions, Docker, CI/CD best practices ([GitHub](https://github.com/alexyorke?utm_source=chatgpt.com))  
-* **Tools & Practices:** .NET analyzers (PurelySharp), interactive notebooks (branch-pad), system monitoring (ssd-protect) ([GitHub](https://github.com/alexyorke?utm_source=chatgpt.com))  
+- Backend and platform engineering
+- Static analysis and developer tooling
+- CI/CD, release engineering, and developer productivity
+- Reliability, debugging, and operational improvements
 
-## Projects
+## Selected projects
 
-* **PurelySharp** – A C# analyzer enforcing method purity via `[EnforcePure]` and `[Pure]` attributes. [github.com/alexyorke/PurelySharp](https://github.com/alexyorke/PurelySharp)  
-* **beginning-ci-cd-book** – A free, open-source guide to implementing CI/CD pipelines using GitHub Actions. [github.com/alexyorke/beginning-ci-cd-book](https://github.com/alexyorke/beginning-ci-cd-book)  
-* **branch-pad** – An interactive Python notebook environment for exploring multiple branches of code execution. [github.com/alexyorke/branch-pad](https://github.com/alexyorke/branch-pad)  
+### [PurelySharp](https://github.com/alexyorke/PurelySharp)
+A C# analyzer that enforces method purity through the `[EnforcePure]` and `[Pure]` attributes.
 
-## Connect with Me
+### [beginning-ci-cd-book](https://github.com/alexyorke/beginning-ci-cd-book)
+A practical, open-source guide to implementing CI/CD pipelines with GitHub Actions.
 
-* **GitHub:** [github.com/alexyorke](https://github.com/alexyorke?utm_source=chatgpt.com)  
-* **LinkedIn:** [linkedin.com/in/alexyorke](https://ca.linkedin.com/in/alexyorke?utm_source=chatgpt.com)  
-* **Website:** [alexyorke.ca](https://alexyorke.github.io)  
-* **Stack Overflow:** [stackoverflow.com/users/220935/alexyorke](https://stackoverflow.com/users/220935/alexyorke)  
-* **Email:** [yorkeac@gmail.com](mailto:yorkeac@gmail.com)  
+### [branch-pad](https://github.com/alexyorke/branch-pad)
+An interactive Python notebook environment for exploring multiple branches of code execution.
+
+### [ssd-protect](https://github.com/alexyorke/ssd-protect)
+A utility that alerts you when an application writes excessive amounts of data to your SSD.
+
+## Writing
+
+- [Blog](https://alexyorke.github.io/blog/)
+- [Beginning CI/CD book](https://alexyorke.github.io/beginning-ci-cd-book/)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/alexyorke)
+- [Stack Overflow](https://stackoverflow.com/users/220935/alexyorke)
