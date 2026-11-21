@@ -1,6 +1,6 @@
 # Alex Yorke
 
-Senior Staff Software Engineer at Palo Alto Networks, previously at Microsoft.
+I was a Senior Staff Software Engineer at Palo Alto Networks and previously worked at Microsoft.
 
 I build backend and platform software, mostly in C#, Python, and TypeScript. I'm interested in debugging complex systems, safer releases, and tools that make software easier to understand, test, and operate.
 
